@@ -4,7 +4,7 @@ Hello! I'm Henrique Crispino, a student of Analysis and Systems Development at S
 
 ## About Me
 
-- 👨‍🎓 Currently, I'm a student at São Paulo Tech School.
+- 👨‍🎓 Currently, I am a student of Systems Analysis and Development at São Paulo Tech School.
 - 💼 I'm interested in full-stack development.
 - 🌱 I'm always learning and honing my skills.
 - 📫 You can reach me at [henrique.crispino@sptech.school](mailto:henrique.crispino@sptech.school)
