@@ -11,9 +11,13 @@ Hello! I'm Henrique Crispino, a student of Analysis and Systems Development at S
 
 ## Technologies and Skills
 
-Here are some of the technologies and skills I am currently learning or have experience with:
+Here are some of the technologies and skills I am currently learning:
 
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+
+Technologies I have experience with: 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" /> 
 
 You can find more details about my projects on my [GitHub profile](https://github.com/Henrique-Crispino).
 
@@ -25,8 +29,6 @@ I'm open to collaborations and suggestions on my projects. If you find an issue 
 
 You can contact me through my [email](mailto:henrique.crispino@sptech.school) or on social media:
 
- [
-            <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-          ](https://www.linkedin.com/in/henrique-crispino)
+ [<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/henrique-crispino)
   
 Feel free to explore my projects and leave your feedback. Thanks for visiting my GitHub!
