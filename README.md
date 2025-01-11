@@ -20,14 +20,10 @@ I believe every day is a new chance to learn something new. I am driven by curio
 
 # 📊 GitHub Stats
 
-## Status
-
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=Henrique-Crispino&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique-Crispino&theme=great-gatsby&hide_border=false" alt="GitHub Streak" />
 </div>
-
-## Linguagens mais usadas
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Crispino&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
