@@ -12,7 +12,7 @@ I believe every day is a new chance to learn something new. I am driven by curio
 🔭 I’m currently working on personal web development projects, exploring the use of React, Node.js, and RESTful APIs. I’m also building a sports data analytics application, combining my passion for technology and sports.<br>👯 I’m looking for collaborations on projects involving front-end, UI/UX, and web development. I’m interested in working with creative and innovative teams to build scalable and impactful solutions.<br>🤝 I’m always open to learning more about software architecture and best practices in application development. If you have tips or experiences to share, I’d be grateful!<br>🌱 I’m currently diving deeper into TypeScript and Next.js to enhance my front-end development skills and build more robust and scalable applications.<br>💬 Feel free to ask me about React, JavaScript, front-end development, and how to integrate modern technologies with best practices in agile development.
 
 
-## 🌐 Socials:
+## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-crispino) 
 
 # 💻 Tech Stack:
@@ -21,7 +21,7 @@ I believe every day is a new chance to learn something new. I am driven by curio
 
 ## Status
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Henrique-Crispino&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique-Crispino&theme=great-gatsby&hide_border=false" alt="GitHub Streak" />
 </div>
