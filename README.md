@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a developer passionate about technology and innovation. My journey into programming began at the age of 18, driven by curiosity and a desire to learn. Since then, I’ve specialized in web development, starting with the fundamentals of HTML5, CSS, and JavaScript, and I’ve never looked back.
+I’m a developer passionate about technology and innovation. My journey into programming began at the age of 20, driven by curiosity and a desire to learn. Since then, I’ve specialized in web development, starting with the fundamentals of HTML5, CSS, and JavaScript, and I’ve never looked back.
 
 Over time, I’ve continuously sought to improve my skills, explore new technologies, and create solutions that have a positive impact on people. Today, I continue learning and sharing my knowledge through projects and collaborations.
 
