@@ -45,10 +45,3 @@ ADS · São Paulo Tech School (SPTech) · São Paulo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-crispino)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Henrique-Crispino)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.crispino@sptech.school)
-
----
-
-### Stats
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Henrique-Crispino&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Henrique-Crispino&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
