@@ -1,6 +1,6 @@
 # Henrique Crispino
 
-Back-end com tração em produto. Java/Spring Boot em produção (Rappi) e, hoje, co-fundador full-stack da [Kairos](https://github.com/AI-Kairos-LTDA): pipeline de mídia, filas, OAuth e publicação via API.
+Back-end com tração em produto. PHP/Laravel e React em produção (Rappi) e, hoje, co-fundador full-stack da [Kairos](https://github.com/AI-Kairos-LTDA): pipeline de mídia, filas, OAuth e publicação via API.
 
 O que me interessa no código é invariante — o que o sistema **não pode** deixar acontecer. Post duplicado, estoque inventado, caixa que fecha mentindo. O resto é detalhe de framework.
 
@@ -13,13 +13,15 @@ ADS · São Paulo Tech School (SPTech) · São Paulo
 - **Kairos** — API FastAPI (JWT, Celery/Redis, Postgres, OAuth Meta/YouTube/TikTok) + painel React
 - **Gestão operacional** — estoque, lote/FIFO, caixa e perdas para fábrica + lojas
 
-`Java` `Spring Boot` `JPA` `Python` `FastAPI` `PostgreSQL` `MySQL` `Redis` `Docker` `REST` `JWT` `OAuth` `React` `TypeScript`
+`PHP` `Laravel` `Java` `Spring Boot` `Python` `FastAPI` `PostgreSQL` `MySQL` `Redis` `Docker` `REST` `JWT` `OAuth` `React` `TypeScript`
 
 ---
 
 ### Stack
 
 **Backend**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
