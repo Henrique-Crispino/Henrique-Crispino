@@ -1,31 +1,55 @@
-# 💫 About Me:
-I’m a developer passionate about technology and innovation. My journey into programming began at the age of 20, driven by curiosity and a desire to learn. Since then, I’ve specialized in web development, starting with the fundamentals of HTML5, CSS, and JavaScript, and I’ve never looked back.
+# Henrique Crispino
 
-Over time, I’ve continuously sought to improve my skills, explore new technologies, and create solutions that have a positive impact on people. Today, I continue learning and sharing my knowledge through projects and collaborations.
+Back-end com tração em produto. Java/Spring Boot em produção (Rappi) e, hoje, co-fundador full-stack da [Kairos](https://github.com/AI-Kairos-LTDA): pipeline de mídia, filas, OAuth e publicação via API.
 
-After finishing high school, I began my undergraduate studies in Systems Analysis and Development at São Paulo Tech School (SPTech), where I deepened my knowledge in application development, with a focus on React and Spring Boot. During my studies, I built a solid foundation in systems analysis and gained a comprehensive understanding of the processes that shape the world of technology.
+O que me interessa no código é invariante — o que o sistema **não pode** deixar acontecer. Post duplicado, estoque inventado, caixa que fecha mentindo. O resto é detalhe de framework.
 
-My practical experience was further enriched when I joined the Rappi software development team as a front-end developer. This opportunity provided me with valuable insights into how the tech industry works in practice, enhancing my technical skills and strengthening my understanding of teamwork within agile environments.
+ADS · São Paulo Tech School (SPTech) · São Paulo
 
-I believe every day is a new chance to learn something new. I am driven by curiosity and a constant desire to expand my knowledge, exploring new technologies and challenges.
+---
 
-🔭 I’m currently working on personal web development projects, exploring the use of React, Node.js, and RESTful APIs. I’m also building a sports data analytics application, combining my passion for technology and sports.<br>👯 I’m looking for collaborations on projects involving front-end, UI/UX, and web development. I’m interested in working with creative and innovative teams to build scalable and impactful solutions.<br>🤝 I’m always open to learning more about software architecture and best practices in application development. If you have tips or experiences to share, I’d be grateful!<br>🌱 I’m currently diving deeper into TypeScript and Next.js to enhance my front-end development skills and build more robust and scalable applications.<br>💬 Feel free to ask me about React, JavaScript, front-end development, and how to integrate modern technologies with best practices in agile development.
+### Agora
 
+- **Kairos** — API FastAPI (JWT, Celery/Redis, Postgres, OAuth Meta/YouTube/TikTok) + painel React
+- **Gestão operacional** — estoque, lote/FIFO, caixa e perdas para fábrica + lojas
 
-## 🌐 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-crispino) 
+`Java` `Spring Boot` `JPA` `Python` `FastAPI` `PostgreSQL` `MySQL` `Redis` `Docker` `REST` `JWT` `OAuth` `React` `TypeScript`
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
-# 📊 GitHub Stats
+### Stack
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique-Crispino&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</div>
+**Backend**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+**Dados e infra**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Front (quando o produto pede)**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+---
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-crispino)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Henrique-Crispino)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.crispino@sptech.school)
+
+---
+
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Henrique-Crispino&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Crispino&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
