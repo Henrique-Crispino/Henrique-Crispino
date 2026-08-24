@@ -1,6 +1,6 @@
 # Henrique Crispino
 
-Back-end com tração em produto. PHP/Laravel e React em produção (Rappi) e, hoje, co-fundador full-stack da [Kairos](https://github.com/AI-Kairos-LTDA): pipeline de mídia, filas, OAuth e publicação via API.
+Back-end com tração em produto. PHP/Laravel e React em produção (Rappi); Java/Spring no [Agendou-Backend](https://github.com/Agendou/Agendou-Backend) (faculdade, em equipe). Hoje, co-fundador full-stack da [Kairos](https://github.com/AI-Kairos-LTDA).
 
 O que me interessa no código é invariante — o que o sistema **não pode** deixar acontecer. Post duplicado, estoque inventado, caixa que fecha mentindo. O resto é detalhe de framework.
 
@@ -10,8 +10,10 @@ ADS · São Paulo Tech School (SPTech) · São Paulo
 
 ### Agora
 
-- **Kairos** — API FastAPI (JWT, Celery/Redis, Postgres, OAuth Meta/YouTube/TikTok) + painel React
-- **Gestão operacional** — estoque, lote/FIFO, caixa e perdas para fábrica + lojas
+- **Kairos** — API FastAPI (JWT, filas, Postgres, OAuth) + painel React · [org](https://github.com/AI-Kairos-LTDA)
+- **Gestão operacional** — estoque, lote/FIFO, caixa e perdas · [CRM-ZeDaMassa](https://github.com/Henrique-Crispino/CRM-ZeDaMassa)
+- **Agendou** — API Java/Spring Boot de agendamentos (projeto de faculdade, em equipe) · [Agendou-Backend](https://github.com/Agendou/Agendou-Backend)
+- **Write Flow** — app Next.js · [write-flow](https://github.com/Henrique-Crispino/write-flow)
 
 `PHP` `Laravel` `Java` `Spring Boot` `Python` `FastAPI` `PostgreSQL` `MySQL` `Redis` `Docker` `REST` `JWT` `OAuth` `React` `TypeScript`
 
