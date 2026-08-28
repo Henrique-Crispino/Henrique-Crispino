@@ -2,8 +2,6 @@
 
 Back-end com tração em produto. PHP/Laravel e React em produção (Rappi); Java/Spring no [Agendou-Backend](https://github.com/Agendou/Agendou-Backend) (faculdade, em equipe). Hoje, co-fundador full-stack da [Kairos](https://github.com/AI-Kairos-LTDA).
 
-O que me interessa no código é invariante — o que o sistema **não pode** deixar acontecer. Post duplicado, estoque inventado, caixa que fecha mentindo. O resto é detalhe de framework.
-
 ADS · São Paulo Tech School (SPTech) · São Paulo
 
 ---
